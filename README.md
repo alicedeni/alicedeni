@@ -7,7 +7,6 @@
 <h3>Обо мне</h3>
 <ul>
     <li>🤓 3 курс МИЭМ НИУ ВШЭ по программе "Информатика и вычислительная техника"</li>
-    <li>💻 Frontend разработчик <a href="https://styleru.org">Стилеру</a> '24</li>
     <li>📄 Ознакомиться с опытом: <a href="https://drive.google.com/file/d/1zeiiwJ6Iso2VFV383Wsu4O--ffoVH7ky/view?usp=sharing">резюме</a></li>
 </ul>
 <hr/>
